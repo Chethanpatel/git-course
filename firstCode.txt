@@ -2,6 +2,6 @@ Its Hello Msg:
 
 Hello World!
 
-Now I am ading new line
+Now I am adding new line
 
 submit the data DB
